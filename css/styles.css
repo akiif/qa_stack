@@ -1,0 +1,68 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+
+.body {
+    background-image: 'images/banner.png';
+    margin: .5%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.form-div {
+    margin: 75px auto 50px;
+    padding: 25px 15px 10px 15px;
+    border: 1px solid #80ced7;
+    border-radius: 5px;
+    font-size: 1.1em;
+    font-family: 'Lora', serif;
+}
+
+.btn-enter{
+    margin: 25px auto 25px;
+    width: 50%;
+    display: flex;  
+    justify-content: center;  
+}
+
+form p {
+    font-size: .89em;
+}
+
+.login{
+    margin-top: 120px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.home-qa {
+    margin: 75px auto 50px;
+    padding: 25px 15px 10px 15px;
+    border: 1px solid #80ced7;
+    border-radius: 5px;
+    font-size: 1.1em;
+    font-family: 'Lora', serif;
+}
+
+.ask-modal {
+    margin-top: 30px;
+}
+
+.button .btnn-group {
+    background-color: #4CAF50; 
+    display: inline-block;
+    size: 16px;
+
+}
+
+.post-info {
+    margin: 10px auto 0px;
+    padding: 5px;
+}
+
+.fa-thumbs-down, .fa-thumbs-o-down {
+    transform:rotateY(180deg);
+  }

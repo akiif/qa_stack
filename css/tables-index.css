@@ -1,0 +1,21 @@
+.card-t {
+    width: 100%;;
+}
+
+th {
+    height: 70px;
+    text-align: center;
+}
+a.tables-link:link {
+    color: black;
+    text-decoration: none;
+  }
+
+a.tables-link:visited {
+      color: green;
+      text-decoration: none;
+  }
+
+a.tables-link:hover {
+    color: hotpink;
+}
